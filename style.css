@@ -1,0 +1,30 @@
+body {
+  font-family: Arial, sans-serif;
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+h1 {
+  text-align: center;
+}
+
+h2 {
+  margin-top: 30px;
+}
+
+p {
+  line-height: 1.6;
+}
+
+.main-image {
+  display: block;
+  margin: 0 auto;
+  width: 400px;
+  max-width: 100%;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}
